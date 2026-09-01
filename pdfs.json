@@ -4,31 +4,31 @@
       "titulo": "Understanding Chatbot-mediated Task Management",
       "autor": "Microsoft Research",
       "ano": 2018,
-      "url_pdf": "https://arxiv.org/pdf/1802.03109"
+      "link_pdf": "https://arxiv.org/pdf/1802.03109"
     },
     {
       "titulo": "Calendar.help: Designing a Workflow-Based Scheduling Agent",
       "autor": "Justin Cranshaw, et al.",
       "ano": 2017,
-      "url_pdf": "https://arxiv.org/pdf/1703.08428"
+      "link_pdf": "https://arxiv.org/pdf/1703.08428"
     },
     {
       "titulo": "CalBehav: A Machine Learning based Personalized Calendar Behavioral Model",
       "autor": "Diversos Autores",
       "ano": 2019,
-      "url_pdf": "https://arxiv.org/pdf/1909.04724"
+      "link_pdf": "https://arxiv.org/pdf/1909.04724"
     },
     {
       "titulo": "The iCalendar Core Object Specification (RFC 5545)",
       "autor": "Internet Engineering Task Force (IETF)",
       "ano": 2009,
-      "url_pdf": "https://www.ietf.org/rfc/rfc5545.txt"
+      "link_pdf": "https://www.ietf.org/rfc/rfc5545.txt"
     },
     {
       "titulo": "Turning Time from Enemy into an Ally Using the Pomodoro Technique",
       "autor": "Xiaofeng Wang, et al.",
       "ano": 2014,
-      "url_pdf": "https://arxiv.org/pdf/1402.4320"
+      "link_pdf": "https://arxiv.org/pdf/1402.4320"
     }
   ]
 }
